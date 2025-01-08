@@ -27,7 +27,7 @@ AnimatedButton(
 )
 ```
 ## Personalización
-Puedes personalizar las animaciones añadiendo más `TweenSequenceItem` y ajustando los `offSet` para personalizar el movimiento en los ejes X o Y.
+Puedes personalizar las animaciones añadiendo más `TweenSequenceItem` y ajustando los `offSet` para personalizar el movimiento en los ejes X o Y, mezclando ambas para crear una animación personalizada con más vida y movimiento.
 
 - `TweenSequenceItem`: Define cómo se mueve el botón en el eje X.
 - `Curvas`: Puedes cambiar las curvas de entrada/salida según se requiera.
